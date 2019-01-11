@@ -215,3 +215,13 @@ footer nav a {
 .section3 {
     display: flex;
 }
+
+.learnmore {
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 30%;
+    text-align: center;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-top: 15px;
+}

@@ -235,6 +235,10 @@ footer nav a {
     padding-top: 10px;
 }
 
+.section2div1 {
+    margin-right: 30px;
+}
+
 .section3 {
     display: flex;
     padding-left: 15px;
@@ -245,6 +249,10 @@ footer nav a {
     border-bottom: 1px dashed black;
     padding-bottom: 20px;
     margin-bottom: 60px;
+}
+
+.section3div1 {
+    margin-right: 30px;
 }
 
 .section3 div h2 {

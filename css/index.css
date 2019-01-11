@@ -251,9 +251,9 @@ footer nav a {
 .learnmore {
     border: 2px solid black;
     border-radius: 10px;
-    width: 30%;
+    width: 34%;
     text-align: center;
-    padding-top: 4px;
-    padding-bottom: 4px;
+    padding-top: 6px;
+    padding-bottom: 6px;
     margin-top: 15px;
 }

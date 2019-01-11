@@ -73,6 +73,25 @@ p {
     margin: 0 auto;
 }
 
+.topnav {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-right: 40px;
+}
+
+.topnav a {
+    text-decoration: none;
+    color: black;
+}
+
+.top-img {
+    margin-bottom: 20px;
+}
+
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
